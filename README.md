@@ -2,7 +2,7 @@ Statistics of acceptance rate for the main AI conferences
 =====
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> |
 | :------------- | :------------- | :------------- |
-||<div align=center>**Natual Language Processing**</div>||
+|<div align=center>**NLP**</div>|<div align=center>**Natural Language Processing**</div>||
 |ACL'14 | 26.2% (146/572) | 26.1% (139/551) |
 |ACL'15 | 25.0% (173/692) | 22.4% (145/648) |
 |ACL'16 | 28.0% (231/825) | 21.0% (97/463) |
@@ -27,7 +27,7 @@ Statistics of acceptance rate for the main AI conferences
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
-||<div align=center>**Computer Vision**</div>||
+|<div align=center>**CV**</div>|<div align=center>**Computer Vision**</div>||
 |CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
 |CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
 |CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
@@ -41,7 +41,7 @@ Statistics of acceptance rate for the main AI conferences
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
-||<div align=center>**Machine Learning**</div>||
+|<div align=center>**ML**</div>|<div align=center>**Machine Learning**</div>||
 |ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
 |ICML'15 | 26.0% (270/1037) | - |
 |ICML'16 | 24.0% (322/?) | - |
@@ -66,7 +66,7 @@ Statistics of acceptance rate for the main AI conferences
 |COLT'16 | 26.1% (53/203) | - |
 |COLT'17 | 32.5% (74/228) | - |
 |COLT'18 | 27.2% (91/335) | - |
-||<div align=center>**Artificial Intelligence**</div>||
+|<div align=center>**AI**</div>|<div align=center>**Artificial Intelligence**</div>||
 |AAAI'14 | 28.0% (398/1406) | - |
 |AAAI'15 | 26.7% (531/1991) | - |
 |AAAI'16 | 25.8% (549/2132) | - |
@@ -84,7 +84,7 @@ Statistics of acceptance rate for the main AI conferences
 |ECAI'16 | 27.0% (177/656) | - |
 |ECAI'18 (Joint IJCAI-ECAI) | 20.5% (710/3470) | - |
 |ECAI'20 | 26.8% (365/1363) | - |
-||<div align=center>**AI and Statistics**</div>||
+|<div align=center>**AI & Stats**</div>|<div align=center>**AI and Statistics**</div>||
 |UAI'14 | 32.0% (94/292) | - |
 |UAI'15 | 34.0% (99/291) | - |
 |UAI'16 | 31.0% (85/275) | - |
@@ -97,7 +97,7 @@ Statistics of acceptance rate for the main AI conferences
 |AISTATS'17 | 31.7% (168/530) | - |
 |AISTATS'18| 33.2% (214/645) | - |
 |AISTATS'19| 32.4% (360/1111) | - |
-||<div align=center>**Knowledge Modeling**</div>||
+|<div align=center>**KM**</div>|<div align=center>**Knowledge Modeling**</div>||
 |SIGIR'14 | 21.0% (82/387) | 40.0% (104/263) |
 |SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) |
 |SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) |
@@ -117,7 +117,7 @@ Statistics of acceptance rate for the main AI conferences
 |TheWebConf'18 | 15.0% (171/1140) | - |
 |TheWebConf'19 | 18.0% (225/1247) | - |
 |TheWebConf'20 | 19.2% (217/1129) | - |
-||<div align=center>**Data Mining**</div>||
+|<div align=center>**DM**</div>|<div align=center>**Data Mining**</div>||
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
 |KDD'16 | 13.7% (142/1115) | - |
@@ -137,7 +137,7 @@ Statistics of acceptance rate for the main AI conferences
 |WSDM'18 | 16.1% (84/514) | - |
 |WSDM'19 | 16.4% (84/511) | - |
 |WSDM'20 | 14.8% (91/615) | - |
-||<div align=center>**Specific Domains and Applications**</div>||
+|<div align=center>**Apps**</div>|<div align=center>**Specific Domains and Applications**</div>||
 |RecSys'15| 23.0% (35/152) | - |
 |RecSys'16| 18.2% (29/159) | - |
 |RecSys'17| 20.8% (26/125) | 16.4% (20/122) |
