@@ -66,6 +66,11 @@ Statistics of acceptance rate for the main AI conferences
 |COLT'16 | 26.1% (53/203) | - |
 |COLT'17 | 32.5% (74/228) | - |
 |COLT'18 | 27.2% (91/335) | - |
+|ECML-PKDD'14 | 20.9% (115/550) | - |
+|ECML-PKDD'15 | 18.4% (89/483) | - |
+|ECML-PKDD'16 | 26.7% (123/460) | - |
+|ECML-PKDD'17 | 27.7% (101/364) | - |
+|ECML-PKDD'18 | 24.5% (131/535) | - |
 |<div align=center>**AI**</div>|<div align=center>**Artificial Intelligence**</div>||
 |AAAI'14 | 28.0% (398/1406) | - |
 |AAAI'15 | 26.7% (531/1991) | - |
@@ -117,6 +122,18 @@ Statistics of acceptance rate for the main AI conferences
 |TheWebConf'18 | 15.0% (171/1140) | - |
 |TheWebConf'19 | 18.0% (225/1247) | - |
 |TheWebConf'20 | 19.2% (217/1129) | - |
+|ISWC'14 | 21.1% (38/180) | - |
+|ISWC'15 | 22.1% (38/172) | - |
+|ISWC'16 | 23.0% (75/326) | - |
+|ISWC'17 | 18.3% (55/300) | - |
+|ISWC'18 | 23.8% (39/164) | - |
+|ISWC'19 | 21.6% (42/194) | - |
+|ESWC'14 | 24.5% (50/204) | - |
+|ESWC'15 | 26.2% (43/164) | - |
+|ESWC'16 | 23.0% (47/204) | - |
+|ESWC'17 | 27.9% (51/183) | - |
+|ESWC'18 | 26.8% (48/179) | - |
+|ESWC'19 | 29.1% (39/134) | - |
 |<div align=center>**DM**</div>|<div align=center>**Data Mining**</div>||
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
