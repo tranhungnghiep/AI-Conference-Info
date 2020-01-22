@@ -85,7 +85,7 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'17 | 26.0% (660/2540) | - |
 |IJCAI'18 (Joint ECAI) | 20.5% (710/3470) | - |
 |IJCAI'19 | 17.9% (850/4752) | - |
-|ECAI'12 | 28.5% (140/(492)) | - |
+|ECAI'12 | 28.5% (140/492) | - |
 |ECAI'14 | 28.1% (158/562) | - |
 |ECAI'16 | 27.0% (177/656) | - |
 |ECAI'20 | 26.8% (365/1363) | - |
