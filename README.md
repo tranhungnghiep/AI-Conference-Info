@@ -27,6 +27,11 @@ Statistics of acceptance rate for the main AI conferences
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
+|CoNLL'14 | 24.1% (20/83) | - |
+|CoNLL'15 | 29.9% (38/127) | - |
+|CoNLL'16 | 20.1% (30/149) | - |
+|CoNLL'17 | 18.5% (50/271) | - |
+|CoNLL'18 | 20.8% (57/274) | - |
 |**CV**|<div align=center>**Computer Vision**</div>||
 |CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
 |CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
