@@ -3,11 +3,11 @@ Statistics of acceptance rate for the main AI conferences
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> |
 | :------------- | :------------- | :------------- |
 |**NLP**|<div align=center>**Natural Language Processing**</div>||
-|ACL'14 | 26.2% (146/572) | 26.1% (139/551) |
+|ACL'14 | 25.5% (146/572) | 25.2% (139/551) |
 |ACL'15 | 25.0% (173/692) | 22.4% (145/648) |
 |ACL'16 | 28.0% (231/825) | 21.0% (97/463) |
-|ACL'17 | 25.0% (195/751) | 18.9% (107/567) |
-|ACL'18 | 25.3% (258/1018) | 24.0% (126/526) |
+|ACL'17 | 26.0% (195/751) | 18.9% (107/567) |
+|ACL'18 | 25.1% (256/1018) | 23.8% (125/526) |
 |ACL'19 | 25.7% (447/1737) | 18.2% (213/1168) |
 |EMNLP'14 | 30.4% (155/510) | 27.8% (70/252) |
 |EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) |
@@ -184,5 +184,5 @@ Statistics of acceptance rate for the main AI conferences
 
 Note: 
 
-1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from research track are counted.  
+1. For most conferences, including **KDD**, **TheWebConf** (formerly known as **WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
