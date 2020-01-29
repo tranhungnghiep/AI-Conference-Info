@@ -181,8 +181,11 @@ Statistics of acceptance rate for the main AI conferences
 |ICASSP'18| 49.7% (1406/2929) | - |
 |ICASSP'19| 46.5% (1774/3815) | - |
 
-
 Note: 
 
 1. For most conferences, including **KDD**, **TheWebConf** (formerly known as **WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
+
+---
+Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate). Extended for better coverage, reorganization, and corrections.  
+Contributions with updated statistics via issues/pull requests are welcome.
