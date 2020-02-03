@@ -55,10 +55,10 @@ Statistics of acceptance rate for the main AI conferences
 |ICML'19 | 22.6% (773/3424) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
-|NeurIPS'16 | 23.6% (569/2403) | - |
+|NeurIPS'16 | 23.7% (569/2403) | - |
 |NeurIPS'17 | 20.9% (678/3240) (40 orals, 112 spotlights and 526 posters) | - |
 |NeurIPS'18 | 20.8% (1011/4856) (30 orals, 168 spotlights and 813 posters) | - |
-|NeurIPS'19| 21.1% (1428/6743) (36 orals, 164 spotlights and 1228 posters) | - |
+|NeurIPS'19| 21.2% (1428/6743) (36 orals, 164 spotlights and 1228 posters) | - |
 |ICLR'14 | - | - |
 |ICLR'15 | - | - |
 |ICLR'16 | - | - |
@@ -187,5 +187,6 @@ Note:
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
 
 ---
-Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate). Extended for better coverage, reorganization, and corrections.  
+Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate). Extended for better coverage, reorganization, and corrections.
+
 Contributions with updated statistics via issues/pull requests are welcome.
