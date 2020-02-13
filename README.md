@@ -164,7 +164,8 @@ Statistics of acceptance rate for the main AI conferences
 |ICDM'18 | 8.9% (84/948) | 11.1% (105/948) |
 |ICDM'19 | 9.1% (95/1046) | 9.46% (99/1046) |
 |**Other**|<div align=center>**Specific Domains and Applications**</div>||
-|RecSys'15| 23.0% (35/152) | - |
+|RecSys'14| 23.0% (35/152) | - |
+|RecSys'15| 21.4% (28/131) | - |
 |RecSys'16| 18.2% (29/159) | - |
 |RecSys'17| 20.8% (26/125) | 16.4% (20/122) |
 |RecSys'18| 17.7% (32/181) | - |
