@@ -169,6 +169,11 @@ Statistics of acceptance rate for the main AI conferences
 |RecSys'17| 20.8% (26/125) | 16.4% (20/122) |
 |RecSys'18| 17.7% (32/181) | - |
 |RecSys'19| 19.0% (36/189) | - |
+|JCDL'14 | 28.7% (31/108) | - |
+|JCDL'15 | 30.0% (18/60) | - |
+|JCDL'16 | 28.8% (15/52) | - |
+|JCDL'17 | 29.9% (23/77) | - |
+|JCDL'18 | 36.6% (26/71) | - |
 |INTERSPEECH'14| - | - |
 |INTERSPEECH'15| 51.0% (~743/1458) | - |
 |INTERSPEECH'16| 50.5% (779/1541) | - |
