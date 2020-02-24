@@ -1,4 +1,4 @@
-Statistics of acceptance rate for the main AI conferences
+Acceptance rates of top conferences in AI
 =====
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> |
 | :------------- | :------------- | :------------- |
@@ -194,6 +194,5 @@ Note:
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
 
 ---
-Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate). Extended for better coverage, reorganization, and corrections.
-
+Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), extended with better coverage, better format, and corrections.  
 Contributions with updated statistics via issues/pull requests are welcome.
