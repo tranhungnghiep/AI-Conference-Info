@@ -164,7 +164,7 @@ Acceptance rates of top conferences in AI
 |ICDM'17 | 9.3% (72/778) | 10.7% (83/778) |
 |ICDM'18 | 8.9% (84/948) | 11.1% (105/948) |
 |ICDM'19 | 9.1% (95/1046) | 9.46% (99/1046) |
-|**Other**|<div align=center>**Specific Domains and Applications**</div>||
+|**Other**|<div align=center>**Other Domains**</div>||
 |RecSys'14| 23.0% (35/152) | - |
 |RecSys'15| 21.4% (28/131) | - |
 |RecSys'16| 18.2% (29/159) | - |
@@ -194,5 +194,5 @@ Note:
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
 
 ---
-Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), extended with better coverage, better format, and corrections.  
+Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), extended for better coverage of conferences in AI.  
 Contributions with updated statistics via issues/pull requests are welcome.
