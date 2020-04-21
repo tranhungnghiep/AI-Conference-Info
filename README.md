@@ -91,6 +91,7 @@ Acceptance rates of top conferences in AI
 |IJCAI'17 | 26.0% (660/2540) | - |
 |IJCAI'18 (joint ECAI) | 20.5% (710/3470) | - |
 |IJCAI'19 | 17.9% (850/4752) | - |
+|IJCAI'20 (joint PRICAI) | 12.6% (592/4717) | - |
 |ECAI'12 | 28.5% (140/492) | - |
 |ECAI'14 | 28.1% (158/562) | - |
 |ECAI'16 | 27.0% (177/656) | - |
