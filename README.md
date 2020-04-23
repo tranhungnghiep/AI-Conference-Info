@@ -126,6 +126,7 @@ Acceptance rates of top conferences in AI
 |SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) |
 |SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) |
 |SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) |
+|SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) |
 |TheWebConf'14 | 13.0% (84/645) | - |
 |TheWebConf'15 | 14.0% (131/929) | - |
 |TheWebConf'16 | 16.0% (115/727) | - |
@@ -191,9 +192,9 @@ Acceptance rates of top conferences in AI
 
 Note: 
 
-1. For most conferences, including **KDD**, **TheWebConf** (formerly known as **WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
-2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
+1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
+2. For **ICDM**, short papers and long papers are submitted to the same track then their types are decided according to their quality.
 
 ---
-Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), extended for better coverage of conferences in AI.  
-Contributions with updated statistics via issues/pull requests are welcome.
+Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), with more information and larger coverage of top AI conferences.  
+Contributions of updated statistics via issues/pull requests are welcome.
