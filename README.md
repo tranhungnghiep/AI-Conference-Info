@@ -1,5 +1,5 @@
-Acceptance rates and upcoming deadlines of top conferences in AI
-=====
+## Acceptance rates and upcoming deadlines of top AI conferences
+
 |<div align=center>Conference</div>|<div align=center>Long Paper</div>|<div align=center>Short Paper</div>|<div align=center>Deadline</div>|
 |:-------------|:-------------|:-------------|:-------------|
 |**NLP**|<div align=center>**Natural Language Processing**</div>||
@@ -198,12 +198,11 @@ Acceptance rates and upcoming deadlines of top conferences in AI
 |ICASSP'18|49.7% (1406/2929)|-|
 |ICASSP'19|46.5% (1774/3815)|-|
 
-Note: 
-
+#### Note: 
 1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
 2. For **ICDM**, short papers and long papers are submitted to the same track then their types are decided according to their quality.
 
 ---
-Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).  
-More information and larger coverage of top AI conferences.  
-Contributions of updated information via issues/pull requests are welcome.
+- Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).  
+- More information and larger coverage of top AI conferences.  
+- Contributions of updated information via issues/pull requests are welcome.
