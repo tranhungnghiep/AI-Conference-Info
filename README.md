@@ -120,7 +120,7 @@
 |CIKM'17|20.0% (171/855)|28.4% (119/419)|
 |CIKM'18|17.0% (147/862)|23.2% (96/413)|
 |CIKM'19|19.4% (200/1030)|21.3% (100/470)|
-|CIKM'20|-|-|[**May8-May15**](https://cikm2020.org/important-dates/)|
+|CIKM'20|-|-|[**May8-15**](https://cikm2020.org/important-dates/)|
 |KR'12|26.2% (53/202)|-|
 |KR'14|26.4% (58/220)|-|
 |KR'16|~26.0% (49/?)|-|
@@ -145,7 +145,7 @@
 |ISWC'17|~25.3% (55/~217)|-|
 |ISWC'18|23.8% (39/164)|-|
 |ISWC'19|21.6% (42/194)|-|
-|ISWC'20|-|-|[**May15-May22**](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/)|
+|ISWC'20|-|-|[**May15-22**](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/)|
 |ESWC'14|24.5% (50/204)|-|
 |ESWC'15|26.2% (43/164)|-|
 |ESWC'16|23.0% (47/204)|-|
@@ -180,7 +180,7 @@
 |RecSys'17|20.8% (26/125)|16.4% (20/122)|
 |RecSys'18|17.7% (32/181)|-|
 |RecSys'19|19.0% (36/189)|-|
-|RecSys'20|[**May25-Jun1**](https://recsys.acm.org/recsys20/dates/)|
+|RecSys'20|-|-|[**May25-Jun1**](https://recsys.acm.org/recsys20/dates/)|
 |JCDL'14|28.7% (31/108)|-|
 |JCDL'15|30.0% (18/60)|-|
 |JCDL'16|28.8% (15/52)|-|
