@@ -1,4 +1,4 @@
-Acceptance rates of top conferences in AI
+Acceptance rates and upcoming deadlines of top conferences in AI
 =====
 |<div align=center>Conference</div>|<div align=center>Long Paper</div>|<div align=center>Short Paper</div>|<div align=center>Deadline</div>|
 |:-------------|:-------------|:-------------|:-------------|
