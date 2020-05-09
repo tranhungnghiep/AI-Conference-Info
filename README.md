@@ -36,20 +36,20 @@
 |CoNLL'18|20.8% (57/274)|-|
 |CoNLL'20|-|-|[**Jul17**](https://www.conll.org/2020)|
 |**CV**|<div align=center>**Computer Vision**</div>||
-|CVPR'14|29.9% (540/1807) (104 orals, 436 posters)|-|
-|CVPR'15|28.3% (602/2123) (71 orals, 531 posters)|-|
-|CVPR'16|29.9% (643/2145) (83 orals, 123 spotlights, 437 posters)|-|
-|CVPR'17|29.9% (783/2620) (71 orals, 144 spotlights, 568 posters)|-|
-|CVPR'18|29.6% (979/3303) (70 orals, 224 spotlights, 685 posters)|-|
-|CVPR'19|25.0% (1294/5160) (288 short orals, 1294 posters)|-|
+|CVPR'14|29.9% (540/1807) (104o, 436p)|-|
+|CVPR'15|28.3% (602/2123) (71o, 531p)|-|
+|CVPR'16|29.9% (643/2145) (83o, 123s, 437p)|-|
+|CVPR'17|29.9% (783/2620) (71o, 144s, 568p)|-|
+|CVPR'18|29.6% (979/3303) (70o, 224s, 685p)|-|
+|CVPR'19|25.0% (1294/5160) (288 shorto, 1294p)|-|
 |CVPR'20|22.1% (1470/6656)|-|
-|ICCV'13|27.9% (454/1629) (41 orals, 413 posters)|-|
+|ICCV'13|27.9% (454/1629) (41o, 413p)|-|
 |ICCV'15|30.9% (525/1698)|-|
-|ICCV'17|29.0% (621/2143) (45 orals, 56 spotlights, 520 posters)|-|
+|ICCV'17|29.0% (621/2143) (45o, 56s, 520p)|-|
 |ICCV'19|25.0% (1077/4304)|-|
-|ECCV'14|27.9% (363/1444) (38 orals, 325 posters)|-|
-|ECCV'16|26.6% (415/1561) (28 orals, 45 spotlights, 342 posters)|-|
-|ECCV'18|31.8% (776/2439) (59 orals, 717 posters)|-|
+|ECCV'14|27.9% (363/1444) (38o, 325p)|-|
+|ECCV'16|26.6% (415/1561) (28o, 45s, 342p)|-|
+|ECCV'18|31.8% (776/2439) (59o, 717p)|-|
 |**ML**|<div align=center>**Machine Learning**</div>||
 |ICML'14|15.0% (Cycle I), 22.0% (Cycle II)|-|
 |ICML'15|26.0% (270/1037)|-|
@@ -60,17 +60,17 @@
 |NeurIPS'14|24.7% (414/1678)|-|
 |NeurIPS'15|21.9% (403/1838)|-|
 |NeurIPS'16|23.7% (569/2403)|-|
-|NeurIPS'17|20.9% (678/3240) (40 orals, 112 spotlights, 526 posters)|-|
-|NeurIPS'18|20.8% (1011/4856) (30 orals, 168 spotlights, 813 posters)|-|
-|NeurIPS'19|21.2% (1428/6743) (36 orals, 164 spotlights, 1228 posters)|-|
+|NeurIPS'17|20.9% (678/3240) (40o, 112s, 526p)|-|
+|NeurIPS'18|20.8% (1011/4856) (30o, 168s, 813p)|-|
+|NeurIPS'19|21.2% (1428/6743) (36o, 164s, 1228p)|-|
 |NeurIPS'20|-|-|[**May27-Jun3**](https://nips.cc/Conferences/2020/Dates)|
 |ICLR'14|-|-|
 |ICLR'15|-|-|
 |ICLR'16|-|-|
-|ICLR'17|39.1% (198/507) (15 orals, 183 posters)|-|
-|ICLR'18|32.0% (314/981) (23 orals, 291 posters)|-|
-|ICLR'19|31.4% (500/1591) (24 orals, 476 posters)|-|
-|ICLR'20|26.5% (687/2594) (48 orals, 107 spotlights, 532 posters)|-|
+|ICLR'17|39.1% (198/507) (15o, 183p)|-|
+|ICLR'18|32.0% (314/981) (23o, 291p)|-|
+|ICLR'19|31.4% (500/1591) (24o, 476p)|-|
+|ICLR'20|26.5% (687/2594) (48o, 107s, 532p)|-|
 |COLT'14|32.1% (45/140)|-|
 |COLT'15|34.8% (62/178)|-|
 |COLT'16|26.1% (53/203)|-|
@@ -157,8 +157,8 @@
 |KDD'15|19.5% (160/819)|-|
 |KDD'16|13.7% (142/1115)|-|
 |KDD'17|17.4% (130/748)|-|
-|KDD'18|18.4% (181/983) (107 orals, 74 posters)|-|
-|KDD'19|14.2% (170/1200) (110 orals, 60 posters)|-|
+|KDD'18|18.4% (181/983) (107o, 74p)|-|
+|KDD'19|14.2% (170/1200) (110o, 60p)|-|
 |WSDM'14|18.0% (64/355)|-|
 |WSDM'15|16.4% (39/238)|-|
 |WSDM'16|18.2% (67/368)|-|
@@ -200,9 +200,9 @@
 
 #### Note: 
 1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted.  
-2. For **ICDM**, short papers and long papers are submitted to the same track then their types are decided according to their quality.
+2. For **ICDM**, long and short papers are submitted to the same track then their types are decided according to their quality.
+3. "o", "s", and "p" stand for presentation format "orals", "spotlights", and "posters", respectively.
 
 ---
-- Inspired by [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).  
-- More information and larger coverage of top AI conferences.  
-- Contributions of updated information via issues/pull requests are welcome.
+- Inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), with larger coverage and more information.
+- Contributions of updated information via pull requests/issues are welcome.
