@@ -15,7 +15,7 @@
 |EMNLP'17|25.8% (216/836)|18.4% (107/582)|
 |EMNLP'18|25.5% (351/1376)|23.2% (198/855)|
 |EMNLP'19|25.6% (465/1813)|20.5% (218/1063)|
-|EMNLP'20|-|-|[**Jun 1**](https://2020.emnlp.org/call-for-papers)|
+|EMNLP'20|||[**Jun 1**](https://2020.emnlp.org/call-for-papers)|
 |NAACL-HLT'13|30.4% (89/293)|37.0% (51/~138)|
 |NAACL-HLT'15|29.1% (117/402)|22.1% (69/312)|
 |NAACL-HLT'16|25.3% (100/396)|28.9% (82/284)|
@@ -28,13 +28,13 @@
 |COLING'14|31.7% (217/685)|-|
 |COLING'16|32.4% (337/1039)|-|
 |COLING'18|37.3% (331/888)|-|
-|COLING'20|-|-|[**Jul 1**](https://coling2020.org/pages/call_for_papers.html)|
+|COLING'20|||[**Jul 1**](https://coling2020.org/pages/call_for_papers.html)|
 |CoNLL'14|24.1% (20/83)|-|
 |CoNLL'15|29.9% (38/127)|-|
 |CoNLL'16|20.1% (30/149)|-|
 |CoNLL'17|18.5% (50/271)|-|
 |CoNLL'18|20.8% (57/274)|-|
-|CoNLL'20|-|-|[**Jul 17**](https://www.conll.org/2020)|
+|CoNLL'20|||[**Jul 17**](https://www.conll.org/2020)|
 |**CV**|<div align=center>**Computer Vision**</div>||
 |CVPR'14|29.9% (540/1807) (104o, 436p)|-|
 |CVPR'15|28.3% (602/2123) (71o, 531p)|-|
@@ -63,7 +63,7 @@
 |NeurIPS'17|20.9% (678/3240) (40o, 112s, 526p)|-|
 |NeurIPS'18|20.8% (1011/4856) (30o, 168s, 813p)|-|
 |NeurIPS'19|21.2% (1428/6743) (36o, 164s, 1228p)|-|
-|NeurIPS'20|-|-|[**May 27 - Jun 3**](https://nips.cc/Conferences/2020/Dates)|
+|NeurIPS'20|||[**May 27 - Jun 3**](https://nips.cc/Conferences/2020/Dates)|
 |ICLR'14|-|-|
 |ICLR'15|-|-|
 |ICLR'16|-|-|
@@ -120,7 +120,7 @@
 |CIKM'17|20.0% (171/855)|28.4% (119/419)|
 |CIKM'18|17.0% (147/862)|23.2% (96/413)|
 |CIKM'19|19.4% (200/1030)|21.3% (100/470)|
-|CIKM'20|-|-|[**May 8 - 15**](https://cikm2020.org/important-dates/)|
+|CIKM'20|||[**May 8 - 15**](https://cikm2020.org/important-dates/)|
 |KR'12|26.2% (53/202)|-|
 |KR'14|26.4% (58/220)|-|
 |KR'16|~26.0% (49/?)|-|
@@ -145,7 +145,7 @@
 |ISWC'17|~25.3% (55/~217)|-|
 |ISWC'18|23.8% (39/164)|-|
 |ISWC'19|21.6% (42/194)|-|
-|ISWC'20|-|-|[**May 15 - 22**](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/)|
+|ISWC'20|||[**May 15 - 22**](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/)|
 |ESWC'14|24.5% (50/204)|-|
 |ESWC'15|26.2% (43/164)|-|
 |ESWC'16|23.0% (47/204)|-|
@@ -172,7 +172,7 @@
 |ICDM'17|9.3% (72/778)|10.7% (83/778)|
 |ICDM'18|8.9% (84/948)|11.1% (105/948)|
 |ICDM'19|9.1% (95/1046)|9.46% (99/1046)|
-|ICDM'20|-|-|[**Jun 11**](http://icdm2020.bigke.org/)|
+|ICDM'20|||[**Jun 11**](http://icdm2020.bigke.org/)|
 |**Other**|<div align=center>**Other Domains**</div>||
 |RecSys'14|23.0% (35/152)|-|
 |RecSys'15|21.4% (28/131)|-|
@@ -180,7 +180,7 @@
 |RecSys'17|20.8% (26/125)|16.4% (20/122)|
 |RecSys'18|17.7% (32/181)|-|
 |RecSys'19|19.0% (36/189)|-|
-|RecSys'20|-|-|[**May 25 - Jun 1**](https://recsys.acm.org/recsys20/dates/)|
+|RecSys'20|||[**May 25 - Jun 1**](https://recsys.acm.org/recsys20/dates/)|
 |JCDL'14|28.7% (31/108)|-|
 |JCDL'15|30.0% (18/60)|-|
 |JCDL'16|28.8% (15/52)|-|
