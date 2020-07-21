@@ -140,6 +140,7 @@
 | TheWebConf'18 | 15.0% (171/1140) | - | | |
 | TheWebConf'19 | 18.0% (225/1247) | - | | |
 | TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397)| | |
+| TheWebConf'21 | | | | [**Oct 12 - Oct 19**](http://www2021.thewebconf.org/authors/important-dates/) |
 | KR'12 | 26.2% (53/202) | - | | |
 | KR'14 | 26.4% (58/220) | - | | |
 | KR'16 | ~26.0% (49/?) | - | | |
