@@ -2,7 +2,7 @@
 
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Past Deadline</div> | <div align=center>Deadline</div> |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| **NLP** | <div align=center>**Natural Language Processing**</div> | | | |
+| <div align=center>**NLP**</div> | <div align=center>**Natural Language Processing**</div> | | | |
 | ACL'14 | 25.5% (146/572) | 25.2% (139/551)| | |
 | ACL'15 | 25.0% (173/692) | 22.4% (145/648)| | |
 | ACL'16 | 28.0% (231/825) | 21.0% (97/463)| | |
@@ -38,7 +38,7 @@
 | CoNLL'18 | 20.8% (57/274) | - | | |
 | CoNLL'19 | 22.0% (97/441) | - | | |
 | CoNLL'20 | | | [**Jul 17**](https://www.conll.org/2020) | |
-| **CV** | <div align=center>**Computer Vision**</div> | | | |
+| <div align=center>**CV**</div> | <div align=center>**Computer Vision**</div> | | | |
 | CVPR'14 | 29.9% (540/1807) | - | | |
 | CVPR'15 | 28.3% (602/2123) | - | | |
 | CVPR'16 | 29.9% (643/2145) | - | | |
@@ -53,7 +53,7 @@
 | ECCV'14 | 27.9% (363/1444) | - | | |
 | ECCV'16 | 26.6% (415/1561) | - | | |
 | ECCV'18 | 31.8% (776/2439) | - | | |
-| **ML** | <div align=center>**Machine Learning**</div> | | | |
+| <div align=center>**ML**</div> | <div align=center>**Machine Learning**</div> | | | |
 | ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - | | |
 | ICML'15 | 26.0% (270/1037) | - | | |
 | ICML'16 | 24.0% (322/?) | - | | |
@@ -86,7 +86,7 @@
 | ECML-PKDD'16 | 26.7% (123/460) | - | | |
 | ECML-PKDD'17 | 27.7% (101/364) | - | | |
 | ECML-PKDD'18 | 24.5% (131/535) | - | | |
-| **AI** | <div align=center>**Artificial Intelligence**</div> | | | |
+| <div align=center>**AI**</div> | <div align=center>**Artificial Intelligence**</div> | | | |
 | AAAI'14 | 28.0% (398/1406) | - | | |
 | AAAI'15 | 26.7% (531/1991) | - | | |
 | AAAI'16 | 25.8% (549/2132) | - | | |
@@ -118,7 +118,7 @@
 | AISTATS'17 | 31.7% (168/530) | - | | |
 | AISTATS'18 | 33.2% (214/645) | - | | |
 | AISTATS'19 | 32.4% (360/1111) | - | | |
-| **KM** | <div align=center>**Knowledge Modeling**</div> | | | |
+| <div align=center>**KM**</div> | <div align=center>**Knowledge Modeling**</div> | | | |
 | CIKM'14 | 21.0% (175/838) | 21.9% (57/260)| | |
 | CIKM'15 | 26.0% (165/646) | 25.0% (69/276)| | |
 | CIKM'16 | 23.0% (160/701) | 23.5% (55/234)| | |
@@ -158,7 +158,7 @@
 | ESWC'17 | 27.9% (51/183) | - | | |
 | ESWC'18 | 26.8% (48/179) | - | | |
 | ESWC'19 | 29.1% (39/134) | - | | |
-| **DM** | <div align=center>**Data Mining**</div> | | | |
+| <div align=center>**DM**</div> | <div align=center>**Data Mining**</div> | | | |
 | KDD'14 | 14.6% (151/1036) | - | | |
 | KDD'15 | 19.5% (160/819) | - | | |
 | KDD'16 | 13.7% (142/1115) | - | | |
@@ -181,7 +181,7 @@
 | ICDM'18 | 8.9% (84/948) | 11.1% (105/948)| | |
 | ICDM'19 | 9.1% (95/1046) | 9.46% (99/1046)| | |
 | ICDM'20 | | | [**Jun 11**](http://icdm2020.bigke.org/) | |
-| **Other Domains** | | | | |
+| <div align=center>**Other Domains**</div> | | | | |
 | RecSys'14 | 23.0% (35/152) | - | | |
 | RecSys'15 | 21.4% (28/131) | - | | |
 | RecSys'16 | 18.2% (29/159) | - | | |
