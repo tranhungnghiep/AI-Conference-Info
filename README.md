@@ -1,7 +1,7 @@
 ## Acceptance rates and submission deadlines of top AI conferences
 
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Past Deadline</div> | <div align=center>Deadline</div> |
-| :------------- | :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Past Deadline</div> |
+| :------------- | :------------- | :------------- | :------------- |
 | <div align=center>**NLP**</div> | <div align=center>**Natural Language Processing**</div> | | | |
 | ACL'14 | 25.5% (146/572) | 25.2% (139/551) | | |
 | ACL'15 | 25.0% (173/692) | 22.4% (145/648) | | |
@@ -121,7 +121,7 @@
 | ECAI'12 | 28.5% (140/492) | - | | |
 | ECAI'14 | 28.1% (158/562) | - | | |
 | ECAI'16 | 27.0% (177/656) | - | | |
-| ECAI'20 | 26.8% (365/1363) | - | | |
+| ECAI'20 | 26.8% (365/1363) | - | [**Nov 15 - Nov 19**](http://ecai2020.eu/call-for-papers/mainconference/) | |
 | <div align=center>**KM**</div> | <div align=center>**Knowledge Modeling**</div> | | | |
 | CIKM'14 | 21.0% (175/838) | 21.9% (57/260) | | |
 | CIKM'15 | 26.0% (165/646) | 25.0% (69/276) | | |
@@ -197,6 +197,9 @@
 | JCDL'16 | 28.8% (15/52) | - | | |
 | JCDL'17 | 29.9% (23/77) | - | | |
 | JCDL'18 | 36.6% (26/71) | - | | |
+| JCDL'19 | - | - | | |
+| JCDL'20 | - | - | | |
+| JCDL'21 | | | [**Apr 1**](https://2021.jcdl.org/cfp/papers/) | |
 | INTERSPEECH'14 | - | - | | |
 | INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
 | INTERSPEECH'16 | 50.5% (779/1541) | - | | |
