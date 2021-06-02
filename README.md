@@ -10,7 +10,7 @@
 | ACL'18 | 25.1% (256/1018) | 23.8% (125/526) | | |
 | ACL'19 | 25.7% (447/1737) | 18.2% (213/1168) | | |
 | ACL'20 | 25.4% (571/2244) | 17.6% (208/1185) | | |
-| ACL'21 | | | [**Jan 25 - Feb 1**](https://2021.aclweb.org/calls/papers/) | |
+| ACL'21 | 21.3% (?/3350) (Main) | 14.9% (?/3350) (Findings) | [**Jan 25 - Feb 1**](https://2021.aclweb.org/calls/papers/) | |
 | EMNLP'14 | 30.4% (155/510) | 27.8% (70/252) | | |
 | EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) | | |
 | EMNLP'16 | 25.8% (177/687) | 21.8% (87/400) | | |
@@ -32,7 +32,7 @@
 | COLING'14 | 31.7% (217/685) | - | | |
 | COLING'16 | 32.4% (337/1039) | - | | |
 | COLING'18 | 37.3% (331/888) | - | | |
-| COLING'20 | | | [**Jul 1**](https://coling2020.org/pages/call_for_papers.html) | |
+| COLING'20 | 33.4% (622/1862) | - | [**Jul 1**](https://coling2020.org/pages/call_for_papers.html) | |
 | CoNLL'14 | 24.1% (20/83) | - | | |
 | CoNLL'15 | 29.9% (38/127) | - | | |
 | CoNLL'16 | 20.1% (30/149) | - | | |
@@ -65,14 +65,14 @@
 | ICML'18 | 25.1% (621/2473) | - | | |
 | ICML'19 | 22.6% (773/3424) | - | | |
 | ICML'20 | 21.8% (1088/4990) | - | | |
-| ICML'21 | | | [**Jan 28 - Feb 4**](https://icml.cc/Conferences/2021/CallForPapers) | |
+| ICML'21 | 21.5% (1184/5513) | - | [**Jan 28 - Feb 4**](https://icml.cc/Conferences/2021/CallForPapers) | |
 | NeurIPS'14 | 24.7% (414/1678) | - | | |
 | NeurIPS'15 | 21.9% (403/1838) | - | | |
 | NeurIPS'16 | 23.7% (569/2403) | - | | |
 | NeurIPS'17 | 20.9% (678/3240) | - | | |
 | NeurIPS'18 | 20.8% (1011/4856) | - | | |
 | NeurIPS'19 | 21.2% (1428/6743) | - | | |
-| NeurIPS'20 | 20.1% (1900/9454) | | [**May 27 - Jun 3**](https://nips.cc/Conferences/2020/Dates) | |
+| NeurIPS'20 | 20.1% (1900/9454) | - | [**May 27 - Jun 3**](https://nips.cc/Conferences/2020/Dates) | |
 | ICLR'14 | - | - | | |
 | ICLR'15 | - | - | | |
 | ICLR'16 | - | - | | |
@@ -80,7 +80,7 @@
 | ICLR'18 | 32.0% (314/981) | - | | |
 | ICLR'19 | 31.4% (500/1591) | - | | |
 | ICLR'20 | 26.5% (687/2594) | - | | |
-| ICLR'21 | 28.7% (860/2997) | | [**Sep 28 - Oct 2**](https://iclr.cc/Conferences/2021/Dates) | |
+| ICLR'21 | 28.7% (860/2997) | - | [**Sep 28 - Oct 2**](https://iclr.cc/Conferences/2021/Dates) | |
 | COLT'14 | 32.1% (45/140) | - | | |
 | COLT'15 | 34.8% (62/178) | - | | |
 | COLT'16 | 26.1% (53/203) | - | | |
@@ -93,12 +93,15 @@
 | UAI'17 | 31.0% (87/282) | - | | |
 | UAI'18 | 30.8% (104/337) | - | | |
 | UAI'19 | 26.0% (118/450) | - | | |
+| UAI'20 | 27.5% (142/515) | - | | |
 | AISTATS'14 | 35.8% (120/335) | - | | |
 | AISTATS'15 | 28.7% (127/442) | - | | |
 | AISTATS'16 | 30.7% (165/537) | - | | |
 | AISTATS'17 | 31.7% (168/530) | - | | |
 | AISTATS'18 | 33.2% (214/645) | - | | |
 | AISTATS'19 | 32.4% (360/1111) | - | | |
+| AISTATS'20 | - | - | | |
+| AISTATS'21 | 29.8% (455/1527) | - | | |
 | ECML-PKDD'14 | 20.9% (115/550) | - | | |
 | ECML-PKDD'15 | 18.4% (89/483) | - | | |
 | ECML-PKDD'16 | 26.7% (123/460) | - | | |
@@ -112,7 +115,7 @@
 | AAAI'18 | 24.6% (933/3800) | - | | |
 | AAAI'19 | 16.2% (1150/7095) | - | | |
 | AAAI'20 | 20.6% (1591/7737) | - | | |
-| AAAI'21 | 21.4% (1692/7911) | | [**Sep 1 - 9**](https://aaai.org/Conferences/AAAI-21/important-dates/) | |
+| AAAI'21 | 21.4% (1692/7911) | - | [**Sep 1 - 9**](https://aaai.org/Conferences/AAAI-21/important-dates/) | |
 | IJCAI'13 | 28.0% (413/1473) | - | | |
 | IJCAI'15 | 28.6% (572/1996) | - | | |
 | IJCAI'16 | 24.0% (551/2294) | - | | |
@@ -140,7 +143,7 @@
 | SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) | | |
 | SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) | | |
 | SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) | | |
-| SIGIR'21 | | | [**Feb 2 - 9**](http://sigir.org/sigir2021/call-for-full-papers/) | |
+| SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) | [**Feb 2 - 9**](http://sigir.org/sigir2021/call-for-full-papers/) | |
 | TheWebConf'14 | 13.0% (84/645) | - | | |
 | TheWebConf'15 | 14.0% (131/929) | - | | |
 | TheWebConf'16 | 16.0% (115/727) | - | | |
@@ -148,7 +151,7 @@
 | TheWebConf'18 | 15.0% (171/1140) | - | | |
 | TheWebConf'19 | 18.0% (225/1247) | - | | |
 | TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397) | | |
-| TheWebConf'21 | 20.6% (357/1736) | | [**Oct 12 - Oct 19**](http://www2021.thewebconf.org/authors/call-for-papers/) | |
+| TheWebConf'21 | 20.6% (357/1736) | - | [**Oct 12 - Oct 19**](http://www2021.thewebconf.org/authors/call-for-papers/) | |
 | KR'12 | 26.2% (53/202) | - | | |
 | KR'14 | 26.4% (58/220) | - | | |
 | KR'16 | ~26.0% (49/?) | - | | |
@@ -204,7 +207,7 @@
 | RecSys'17 | 20.8% (26/125) | 16.4% (20/122) | | |
 | RecSys'18 | 17.7% (32/181) | - | | |
 | RecSys'19 | 19.0% (36/189) | - | | |
-| RecSys'20 | 17.9% (39/218) | | [**May 25 - Jun 1**](https://recsys.acm.org/recsys20/dates/) | |
+| RecSys'20 | 17.9% (39/218) | - | [**May 25 - Jun 1**](https://recsys.acm.org/recsys20/dates/) | |
 | INTERSPEECH'14 | - | - | | |
 | INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
 | INTERSPEECH'16 | 50.5% (779/1541) | - | | |
@@ -224,5 +227,5 @@
 2. For **ICDM**, long and short papers are submitted to the same track then their types are decided according to their quality.
 
 ---
-- Complement with a larger coverage and more information of [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+- Larger coverage and more information improvement of [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
 - Contributions of updated information are welcome via pull requests/new issues.
