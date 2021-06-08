@@ -128,6 +128,11 @@
 | ECAI'14 | 28.1% (158/562) | - | | |
 | ECAI'16 | 27.0% (177/656) | - | | |
 | ECAI'20 | 26.8% (365/1363) | - | [**Nov 15 - Nov 19**](http://ecai2020.eu/call-for-papers/mainconference/) | |
+| PRICAI'14 | 36.5% (74/203) | 9.9% (20/203) | | |
+| PRICAI'16 | 32.9% (53/161) | 9.3% (15/161) | | |
+| PRICAI'18 | 21.5% (82/382) | 15.2% (58/382) | | |
+| PRICAI'19 | 41.9% (111/265) | 4.9% (13/265) | | |
+| PRICAI'21 | | | [**Jul 31**](https://www.pricai.org/2021/) | |
 | <div align=center>**DM**</div> | <div align=center>**Data Mining**</div> | | | |
 | KDD'14 | 14.6% (151/1036) | - | | |
 | KDD'15 | 19.5% (160/819) | - | | |
@@ -224,8 +229,8 @@
 
 #### Note: 
 1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
-2. For **ICDM**, long and short papers are submitted to the same track then their types are decided according to their quality.
+2. For **ICDM** and **PRICAI**, long and short papers are submitted to the same track then their types are decided according to their quality.
 
 ---
-- Larger coverage and more information improvement of [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+- Larger coverage and more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
 - Contributions of updated information are welcome via pull requests/new issues.
