@@ -27,7 +27,7 @@
 | PRICAI'16 | 32.9% (53/161) | 9.3% (15/161) | | |
 | PRICAI'18 | 21.5% (82/382) | 15.2% (58/382) | | |
 | PRICAI'19 | 41.9% (111/265) | 4.9% (13/265) | | |
-| PRICAI'21 | | | [Jul 31](https://www.pricai.org/2021/) | |
+| PRICAI'21 | 24.0% (98/408) | 7.4% (30/408) | [Jul 31](https://www.pricai.org/2021/) | |
 
 ### Machine Learning
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
@@ -47,6 +47,7 @@
 | NeurIPS'18 | 20.8% (1011/4856) | - | | |
 | NeurIPS'19 | 21.2% (1428/6743) | - | | |
 | NeurIPS'20 | 20.1% (1900/9454) | - | [May 27 - Jun 3](https://nips.cc/Conferences/2020/Dates) | |
+| NeurIPS'21 | ~26.0% (?/9122) | - | | |
 | **ICLR**'14 | - | - | | |
 | ICLR'15 | - | - | | |
 | ICLR'16 | - | - | | |
@@ -208,6 +209,7 @@
 | KDD'18 | 18.4% (181/983) | - | | |
 | KDD'19 | 14.2% (170/1200) | - | | |
 | KDD'20 | 16.9% (216/1279) | - | | |
+| KDD'21 | 15.4% (238/1541) | - | | | 
 | **ICDM**'14 | 9.8% (71/727) | 9.8% (71/727) | | |
 | ICDM'15 | 8.4% (68/807) | 9.7% (78/807) | | |
 | ICDM'16 | 8.6% (78/904) | 11.0% (100/904) | | |
