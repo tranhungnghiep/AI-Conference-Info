@@ -182,6 +182,14 @@
 ### Knowledge Modeling
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
 | :------------- | :------------- | :------------- | :------------- |
+| **SIGIR**'14 | 21.0% (82/387) | 40.0% (104/263) | | |
+| SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) | | |
+| SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) | | |
+| SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) | | |
+| SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) | | |
+| SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) | | |
+| SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) | | |
+| SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) | [Feb 2 - 9](http://sigir.org/sigir2021/call-for-full-papers/) | |
 | **CIKM**'14 | 21.0% (175/838) | 21.9% (57/260) | | |
 | CIKM'15 | 26.0% (165/646) | 25.0% (69/276) | | |
 | CIKM'16 | 23.0% (160/701) | 23.5% (55/234) | | |
@@ -202,14 +210,6 @@
 | KR'14 | 26.6% (58/218) | - | | |
 | KR'16 | 26.9% (49/182) | - | | |
 | KR'18 | 26.8% (65/243) | - | | |
-| **SIGIR**'14 | 21.0% (82/387) | 40.0% (104/263) | | |
-| SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) | | |
-| SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) | | |
-| SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) | | |
-| SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) | | |
-| SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) | | |
-| SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) | | |
-| SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) | [Feb 2 - 9](http://sigir.org/sigir2021/call-for-full-papers/) | |
 | **TheWebConf**'14 | 13.0% (84/645) | - | | |
 | TheWebConf'15 | 14.0% (131/929) | - | | |
 | TheWebConf'16 | 16.0% (115/727) | - | | |
@@ -235,14 +235,6 @@
 ### Signal Processing
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
 | :------------- | :------------- | :------------- | :------------- |
-| **INTERSPEECH**'14 | - | - | | |
-| INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
-| INTERSPEECH'16 | 50.5% (779/1541) | - | | |
-| INTERSPEECH'17 | 52.0% (799/1582) | - | | |
-| INTERSPEECH'18 | 54.3% (749/1320) | - | | |
-| INTERSPEECH'19 | 49.3% (914/1855) | - | | |
-| INTERSPEECH'20| ~47.0% (?/?) | - | | |
-| INTERSPEECH'21| 48.4% (963/1990) | - | | |
 | **ICASSP**'14 | 48.0% (1709/3500) | - | | |
 | ICASSP'15 | 52.0% (1207/2322) | - | | |
 | ICASSP'16 | 47.0% (1265/2682) | - | | |
@@ -251,6 +243,14 @@
 | ICASSP'19 | 46.5% (1774/3815) | - | | |
 | ICASSP'20| - | - | | |
 | ICASSP'21| 48.0% (1734/3610) | - | | |
+| **INTERSPEECH**'14 | - | - | | |
+| INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
+| INTERSPEECH'16 | 50.5% (779/1541) | - | | |
+| INTERSPEECH'17 | 52.0% (799/1582) | - | | |
+| INTERSPEECH'18 | 54.3% (749/1320) | - | | |
+| INTERSPEECH'19 | 49.3% (914/1855) | - | | |
+| INTERSPEECH'20| ~47.0% (?/?) | - | | |
+| INTERSPEECH'21| 48.4% (963/1990) | - | | |
 
 #### Note: 
 1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
