@@ -173,9 +173,15 @@
 | JCDL'16 | 28.8% (15/52) | - | | |
 | JCDL'17 | 29.9% (23/77) | - | | |
 | JCDL'18 | 36.6% (26/71) | - | | |
-| JCDL'19 | - | - | | |
-| JCDL'20 | - | - | | |
-| JCDL'21 | | | [Apr 1](https://2021.jcdl.org/cfp/papers/) | |
+| JCDL'19 | 29.5% (26/88) | 24.2% (16/66) | [Jan 25](https://2019.jcdl.org/cfps/deadlines/index.html) | |
+| JCDL'20 | 31.1% (33/106) | 31.1% (28/90) | | |
+| JCDL'21 | - | - | | |
+| **TPDL**'13 | 15.2% (24/158) | 8.2% (13/158) | | |
+| TPDL'15 | 36.1% (22/61) | 23.0% (14/61) | | |
+| TPDL'17 | 36.8% (39/106) | 10.4% (11/106) | | |
+| TPDL'19 | 21.3% (16/75) | 16.0% (12/75) | [Apr 26](http://www.tpdl.eu/tpdl2019/contributions/) | |
+| TPDL'20 | 26.4% (14/53) | 7.5% (4/53) | | |
+| TPDL'21 | 18.9% (10/53) | 5.7% (3/53) | | |
 | **KR**'12 | 26.2% (53/202) | - | | |
 | KR'14 | 26.6% (58/218) | - | | |
 | KR'16 | 26.9% (49/182) | - | | |
@@ -259,7 +265,7 @@
 
 #### Note: 
 1. For **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
-2. For **ICDM** and **PRICAI**, long and short papers are submitted to the same track then their types are decided based on their quality.
+2. For **ICDM**, **TPDL**, and **PRICAI**, accepted paper types are decided as either long or short based on their quality.
 3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the Findings based on their perceived impact.
 
 ---
