@@ -22,7 +22,7 @@
 | **ECAI**'12 | 28.5% (140/492) | - | | |
 | ECAI'14 | 28.1% (158/562) | - | | |
 | ECAI'16 | 27.0% (177/656) | - | | |
-| ECAI'20 | 26.8% (365/1363) | - | [Nov 15 - Nov 19](http://ecai2020.eu/call-for-papers/mainconference/) | |
+| ECAI'20 | 26.8% (365/1363) | - | [Nov 15 - 19](http://ecai2020.eu/call-for-papers/mainconference/) | |
 | **PRICAI**'14 | 36.5% (74/203) | 9.9% (20/203) | | |
 | PRICAI'16 | 32.9% (53/161) | 9.3% (15/161) | | |
 | PRICAI'18 | 21.5% (82/382) | 15.2% (58/382) | | |
@@ -114,15 +114,18 @@
 | ACL'18 | 25.1% (256/1018) | 23.8% (125/526) | | |
 | ACL'19 | 25.7% (447/1737) | 18.2% (213/1168) | | |
 | ACL'20 | 25.4% (571/2244) | 17.6% (208/1185) | | |
-| ACL'21 | 21.3% (?/3350) (Main) | 14.9% (?/3350) (Findings) | [Jan 25 - Feb 1](https://2021.aclweb.org/calls/papers/) | |
+| ACL'21 | ~21.3% (?/3350) | - | [Jan 25 - Feb 1](https://2021.aclweb.org/calls/papers/) | |
+| ACL'21 (Findings) | ~14.9% (?/3350) | - | | |
 | **EMNLP**'14 | 30.4% (155/510) | 27.8% (70/252) | | |
 | EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) | | |
 | EMNLP'16 | 25.8% (177/687) | 21.8% (87/400) | | |
 | EMNLP'17 | 25.8% (216/836) | 18.4% (107/582) | | |
 | EMNLP'18 | 25.5% (351/1376) | 23.2% (198/855) | | |
 | EMNLP'19 | 25.6% (465/1813) | 20.5% (218/1063) | | |
-| EMNLP'20 | 22.4% (754/3359) (Main) | 15.5% (520/3359) (Findings) | [Jun 1](https://2020.emnlp.org/call-for-papers) | |
-| EMNLP'21 | 23.3% ((650+190)/(2540+1060)) (Main) | 11.6% ((300+119)/(2540+1060)) (Findings) | | |
+| EMNLP'20 | ~22.4% (754/3359) | - | [Jun 1](https://2020.emnlp.org/call-for-papers) | |
+| EMNLP'20 (Findings) | ~15.5% (520/3359) | - | | |
+| EMNLP'21 | 25.6% (650/2540) | 17.9% (190/1060) | | |
+| EMNLP'21 (Findings) | 11.8% (300/2540) | 11.2% (119/1060) | | |
 | **NAACL-HLT**'13 | 30.4% (89/293) | 37.0% (51/~138) | | |
 | NAACL-HLT'15 | 29.1% (117/402) | 22.1% (69/312) | | |
 | NAACL-HLT'16 | 25.3% (100/396) | 28.9% (82/284) | | |
@@ -184,7 +187,7 @@
 | TheWebConf'18 | 15.0% (171/1140) | - | | |
 | TheWebConf'19 | 18.0% (225/1247) | - | | |
 | TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397) | | |
-| TheWebConf'21 | 20.6% (357/1736) | - | [Oct 12 - Oct 19](http://www2021.thewebconf.org/authors/call-for-papers/) | |
+| TheWebConf'21 | 20.6% (357/1736) | - | [Oct 12 - 19](http://www2021.thewebconf.org/authors/call-for-papers/) | |
 | **ISWC**'14 | 21.1% (38/180) | - | | |
 | ISWC'15 | 22.1% (38/172) | - | | |
 | ISWC'16 | ~23.0% (39/~170) | - | | |
@@ -255,9 +258,10 @@
 | INTERSPEECH'21| 48.4% (963/1990) | - | | |
 
 #### Note: 
-1. For most conferences, including **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
-2. For **ICDM** and **PRICAI**, long and short papers are submitted to the same track then their types are decided according to their quality.
+1. For **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
+2. For **ICDM** and **PRICAI**, long and short papers are submitted to the same track then their types are decided based on their quality.
+3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the Findings based on their perceived impact.
 
 ---
-- Larger coverage and more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
-- Contributions of updated information are welcome via pull requests/new issues.
+- Larger coverage with more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+- Contributions with update are welcome via pull requests/issues.
