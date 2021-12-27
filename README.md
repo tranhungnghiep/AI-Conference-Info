@@ -1,4 +1,4 @@
-## Statistics and information of main AI conferences
+## Acceptance rate statistics and information of main AI conferences
 
 ### Artificial Intelligence
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
@@ -152,14 +152,6 @@
 ### Knowledge Modeling
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
 | :------------- | :------------- | :------------- | :------------- |
-| **SIGIR**'14 | 21.0% (82/387) | 40.0% (104/263) | | |
-| SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) | | |
-| SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) | | |
-| SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) | | |
-| SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) | | |
-| SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) | | |
-| SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) | | |
-| SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) | [Feb 2 - 9](http://sigir.org/sigir2021/call-for-full-papers/) | |
 | **CIKM**'14 | 21.0% (175/838) | 21.9% (57/260) | | |
 | CIKM'15 | 26.0% (165/646) | 25.0% (69/276) | | |
 | CIKM'16 | 23.0% (160/701) | 23.5% (55/234) | | |
@@ -168,6 +160,22 @@
 | CIKM'19 | 19.4% (200/1030) | 21.3% (100/470) | | |
 | CIKM'20 | 21.0% (193/920) | 25.9% (103/397) | [May 8 - 15](https://cikm2020.org/important-dates/) | |
 | CIKM'21 | 21.7% (271/1251) | 28.3% (177/626) | | |
+| **SIGIR**'14 | 21.0% (82/387) | 40.0% (104/263) | | |
+| SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) | | |
+| SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) | | |
+| SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) | | |
+| SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) | | |
+| SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) | | |
+| SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) | | |
+| SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) | [Feb 2 - 9](http://sigir.org/sigir2021/call-for-full-papers/) | |
+| **TheWebConf**'14 | 13.0% (84/645) | - | | |
+| TheWebConf'15 | 14.0% (131/929) | - | | |
+| TheWebConf'16 | 16.0% (115/727) | - | | |
+| TheWebConf'17 | 17.0% (164/966) | - | | |
+| TheWebConf'18 | 15.0% (171/1140) | - | | |
+| TheWebConf'19 | 18.0% (225/1247) | - | | |
+| TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397) | | |
+| TheWebConf'21 | 20.6% (357/1736) | - | [Oct 12 - 19](http://www2021.thewebconf.org/authors/call-for-papers/) | |
 | **JCDL**'14 | 28.7% (31/108) | - | | |
 | JCDL'15 | 30.0% (18/60) | - | | |
 | JCDL'16 | 28.8% (15/52) | - | | |
@@ -186,14 +194,6 @@
 | KR'14 | 26.6% (58/218) | - | | |
 | KR'16 | 26.9% (49/182) | - | | |
 | KR'18 | 26.8% (65/243) | - | | |
-| **TheWebConf**'14 | 13.0% (84/645) | - | | |
-| TheWebConf'15 | 14.0% (131/929) | - | | |
-| TheWebConf'16 | 16.0% (115/727) | - | | |
-| TheWebConf'17 | 17.0% (164/966) | - | | |
-| TheWebConf'18 | 15.0% (171/1140) | - | | |
-| TheWebConf'19 | 18.0% (225/1247) | - | | |
-| TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397) | | |
-| TheWebConf'21 | 20.6% (357/1736) | - | [Oct 12 - 19](http://www2021.thewebconf.org/authors/call-for-papers/) | |
 | **ISWC**'14 | 21.1% (38/180) | - | | |
 | ISWC'15 | 22.1% (38/172) | - | | |
 | ISWC'16 | ~23.0% (39/~170) | - | | |
