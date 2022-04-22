@@ -25,11 +25,13 @@
 | ECAI'14 | 28.1% (158/562) | - | | |
 | ECAI'16 | 27.0% (177/656) | - | | |
 | ECAI'20 | 26.8% (365/1363) | - | [Nov 15 - 19](http://ecai2020.eu/call-for-papers/mainconference/) | |
+| ECAI'23 | | | | |
 | **PRICAI**'14 | 36.5% (74/203) | 9.9% (20/203) | | |
 | PRICAI'16 | 32.9% (53/161) | 9.3% (15/161) | | |
 | PRICAI'18 | 21.5% (82/382) | 15.2% (58/382) | | |
 | PRICAI'19 | 41.9% (111/265) | 4.9% (13/265) | | |
 | PRICAI'21 | 24.0% (98/408) | 7.4% (30/408) | [Jul 31](https://www.pricai.org/2021/) | |
+| PRICAI'22 | | | | |
 
 ### Machine Learning
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
