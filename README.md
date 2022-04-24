@@ -32,6 +32,10 @@
 | PRICAI'19 | 41.9% (111/265) | 4.9% (13/265) | | |
 | PRICAI'21 | 24.0% (98/408) | 7.4% (30/408) | [Jul 31](https://www.pricai.org/2021/) | |
 | PRICAI'22 | | | | |
+| **KR**'12 | 26.2% (53/202) | - | | |
+| KR'14 | 26.6% (58/218) | - | | |
+| KR'16 | 26.9% (49/182) | - | | |
+| KR'18 | 26.8% (65/243) | - | | |
 
 ### Machine Learning
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
