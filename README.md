@@ -255,6 +255,14 @@
 ### Signal Processing
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
 | :------------- | :------------- | :------------- | :------------- |
+| **INTERSPEECH**'14 | - | - | | |
+| INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
+| INTERSPEECH'16 | 50.5% (779/1541) | - | | |
+| INTERSPEECH'17 | 52.0% (799/1582) | - | | |
+| INTERSPEECH'18 | 54.3% (749/1320) | - | | |
+| INTERSPEECH'19 | 49.3% (914/1855) | - | | |
+| INTERSPEECH'20 | ~47.0% (?/?) | - | | |
+| INTERSPEECH'21 | 48.4% (963/1990) | - | | |
 | **ICASSP**'14 | 48.0% (1709/3500) | - | | |
 | ICASSP'15 | 52.0% (1207/2322) | - | | |
 | ICASSP'16 | 47.0% (1265/2682) | - | | |
@@ -264,14 +272,6 @@
 | ICASSP'20 | - | - | | |
 | ICASSP'21 | 48.0% (1734/3610) | - | | |
 | ICASSP'22 | 45.0% (1785/3967) | - | | |
-| **INTERSPEECH**'14 | - | - | | |
-| INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
-| INTERSPEECH'16 | 50.5% (779/1541) | - | | |
-| INTERSPEECH'17 | 52.0% (799/1582) | - | | |
-| INTERSPEECH'18 | 54.3% (749/1320) | - | | |
-| INTERSPEECH'19 | 49.3% (914/1855) | - | | |
-| INTERSPEECH'20 | ~47.0% (?/?) | - | | |
-| INTERSPEECH'21 | 48.4% (963/1990) | - | | |
 
 #### Note: 
 1. For **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
