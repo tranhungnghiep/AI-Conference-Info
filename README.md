@@ -201,20 +201,6 @@
 | ESWC'17 | 27.9% (51/183) | - | | |
 | ESWC'18 | 26.8% (48/179) | - | | |
 | ESWC'19 | 29.1% (39/134) | - | | |
-| **JCDL**'14 | 28.7% (31/108) | - | | |
-| JCDL'15 | 30.0% (18/60) | - | | |
-| JCDL'16 | 28.8% (15/52) | - | | |
-| JCDL'17 | 29.9% (23/77) | - | | |
-| JCDL'18 | 36.6% (26/71) | - | | |
-| JCDL'19 | 29.5% (26/88) | 24.2% (16/66) | [Jan 25](https://2019.jcdl.org/cfps/deadlines/index.html) | |
-| JCDL'20 | 31.1% (33/106) | 31.1% (28/90) | | |
-| JCDL'21 | - | - | | |
-| **TPDL**'13 | 15.2% (24/158) | 8.2% (13/158) | | |
-| TPDL'15 | 36.1% (22/61) | 23.0% (14/61) | | |
-| TPDL'17 | 36.8% (39/106) | 10.4% (11/106) | | |
-| TPDL'19 | 21.3% (16/75) | 16.0% (12/75) | [Apr 26](http://www.tpdl.eu/tpdl2019/contributions/) | |
-| TPDL'20 | 26.4% (14/53) | 7.5% (4/53) | | |
-| TPDL'21 | 18.9% (10/53) | 5.7% (3/53) | | |
 
 ### Data Mining
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
@@ -251,6 +237,20 @@
 | RecSys'18 | 17.7% (32/181) | - | | |
 | RecSys'19 | 19.0% (36/189) | - | | |
 | RecSys'20 | 17.9% (39/218) | - | [May 25 - Jun 1](https://recsys.acm.org/recsys20/dates/) | |
+| **JCDL**'14 | 28.7% (31/108) | - | | |
+| JCDL'15 | 30.0% (18/60) | - | | |
+| JCDL'16 | 28.8% (15/52) | - | | |
+| JCDL'17 | 29.9% (23/77) | - | | |
+| JCDL'18 | 36.6% (26/71) | - | | |
+| JCDL'19 | 29.5% (26/88) | 24.2% (16/66) | [Jan 25](https://2019.jcdl.org/cfps/deadlines/index.html) | |
+| JCDL'20 | 31.1% (33/106) | 31.1% (28/90) | | |
+| JCDL'21 | 28.9% (22/76) | 34.1% (14/41) | | |
+| **TPDL**'13 | 15.2% (24/158) | 8.2% (13/158) | | |
+| TPDL'15 | 36.1% (22/61) | 23.0% (14/61) | | |
+| TPDL'17 | 36.8% (39/106) | 10.4% (11/106) | | |
+| TPDL'19 | 21.3% (16/75) | 16.0% (12/75) | [Apr 26](http://www.tpdl.eu/tpdl2019/contributions/) | |
+| TPDL'20 | 26.4% (14/53) | 7.5% (4/53) | | |
+| TPDL'21 | 18.9% (10/53) | 5.7% (3/53) | | |
 
 ### Signal Processing
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
