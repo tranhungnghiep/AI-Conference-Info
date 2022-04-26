@@ -145,7 +145,7 @@
 | **EACL**'12 | 26.0% (85/326) | - | | |
 | EACL'14 | 24.6% (78/317) | 23.1% (46/199) | | |
 | EACL'17 | 27.0% (119/441) | 23.9% (120/502) | | |
-| EACL'21 | | | [Oct 7](https://2021.eacl.org/calls/papers/) | |
+| EACL'21 | 24.7% (326/~1320) | | [Oct 7](https://2021.eacl.org/calls/papers/) | |
 | **COLING**'12 | ~25.0% (195/~780) | - | | |
 | COLING'14 | 31.7% (217/685) | - | | |
 | COLING'16 | 32.4% (337/1039) | - | | |
@@ -157,7 +157,7 @@
 | CoNLL'17 | 18.5% (50/271) | - | | |
 | CoNLL'18 | 20.8% (57/274) | - | | |
 | CoNLL'19 | 22.0% (97/441) | - | | |
-| CoNLL'20 | | | [Jul 17](https://www.conll.org/2020) | |
+| CoNLL'20 | 23.3% (53/227) | | [Jul 17](https://www.conll.org/2020) | |
 
 ### Knowledge Modeling
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
