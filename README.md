@@ -1,8 +1,8 @@
 ## Acceptance rate statistics and information of main AI conferences
 
 ### Artificial Intelligence
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **AAAI**'14 | 28.0% (398/1406) | - | | |
 | AAAI'15 | 26.7% (531/1991) | - | | |
 | AAAI'16 | 25.8% (549/2132) | - | | |
@@ -45,8 +45,8 @@
 | KR'18 | 26.8% (65/243) | - | | |
 
 ### Machine Learning
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **ICML**'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - | | |
 | ICML'15 | 26.0% (270/1037) | - | | |
 | ICML'16 | 24.0% (322/?) | - | | |
@@ -94,8 +94,8 @@
 | ECML-PKDD'19 | 17.7% (130/733) | - | | |
 
 ### Computer Vision
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **CVPR**'14 | 29.9% (540/1807) | - | | |
 | CVPR'15 | 28.3% (602/2123) | - | | |
 | CVPR'16 | 29.9% (643/2145) | - | | |
@@ -115,8 +115,8 @@
 | ECCV'20 | 27.1% (1361/5025) | - | | |
 
 ### Natural Language Processing
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **ACL**'14 | 25.5% (146/572) | 25.2% (139/551) | | |
 | ACL'15 | 25.0% (173/692) | 22.4% (145/648) | | |
 | ACL'16 | 28.0% (231/825) | 21.0% (97/463) | | |
@@ -160,8 +160,8 @@
 | CoNLL'20 | | | [Jul 17](https://www.conll.org/2020) | |
 
 ### Knowledge Modeling
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **CIKM**'14 | 21.0% (175/838) | 21.9% (57/260) | | |
 | CIKM'15 | 26.0% (165/646) | 25.0% (69/276) | | |
 | CIKM'16 | 23.0% (160/701) | 23.5% (55/234) | | |
@@ -203,8 +203,8 @@
 | ESWC'19 | 29.1% (39/134) | - | | |
 
 ### Data Mining
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **KDD**'14 | 14.6% (151/1036) | - | | |
 | KDD'15 | 19.5% (160/819) | - | | |
 | KDD'16 | 13.7% (142/1115) | - | | |
@@ -253,8 +253,8 @@
 | TPDL'21 | 18.9% (10/53) | 5.7% (3/53) | | |
 
 ### Signal Processing
-| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> |
-| :------------- | :------------- | :------------- | :------------- |
+| <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
+| :------------- | :------------- | :------------- | :------------- | :------------- |
 | **INTERSPEECH**'14 | - | - | | |
 | INTERSPEECH'15 | 51.0% (~743/1458) | - | | |
 | INTERSPEECH'16 | 50.5% (779/1541) | - | | |
@@ -268,8 +268,8 @@
 | ICASSP'16 | 47.0% (1265/2682) | - | | |
 | ICASSP'17 | 52.0% (1220/2518) | - | | |
 | ICASSP'18 | 49.7% (1406/2929) | - | | |
-| ICASSP'19 | 46.5% (1774/3815) | - | | |
-| ICASSP'20 | - | - | | |
+| ICASSP'19 | 49.1% (1725/3510) | - | | [Ref](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/TC/SAM_TC/ICASSP%202020%20SAM%20TC_Mecklenbraeuker_v6_small.pdf) |
+| ICASSP'20 | 47.6% (1881/3951) | - | | [Ref](https://signalprocessingsociety.org/sites/default/files/uploads/get_involved/TC/SAM_TC/ICASSP%202020%20SAM%20TC_Mecklenbraeuker_v6_small.pdf) |
 | ICASSP'21 | 48.0% (1734/3610) | - | | |
 | ICASSP'22 | 45.0% (1785/3967) | - | | |
 
