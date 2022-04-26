@@ -194,13 +194,14 @@
 | ISWC'17 | ~25.3% (55/~217) | - | | |
 | ISWC'18 | 23.8% (39/164) | - | | |
 | ISWC'19 | 21.6% (42/194) | - | | |
-| ISWC'20 | | | [May 15 - 22](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/) | |
+| ISWC'20 | 22.4% (38/170) | | [May 15 - 22](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/) | |
 | **ESWC**'14 | 24.5% (50/204) | - | | |
 | ESWC'15 | 26.2% (43/164) | - | | |
 | ESWC'16 | 23.0% (47/204) | - | | |
 | ESWC'17 | 27.9% (51/183) | - | | |
 | ESWC'18 | 26.8% (48/179) | - | | |
 | ESWC'19 | 29.1% (39/134) | - | | |
+| ESWC'20 | 23.5% (39/166) | - | | |
 
 ### Data Mining
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
@@ -274,7 +275,7 @@
 | ICASSP'22 | 45.0% (1785/3967) | - | | |
 
 #### Note: 
-1. For **KDD**, **TheWebConf** (**WWW**), **ISWC**, and **ESWC**, only research track papers are counted. 
+1. For **KDD**, **TheWebConf** (**WWW**), and **ISWC**, only research track papers are counted.
 2. For **ICDM**, **TPDL**, and **PRICAI**, accepted paper types are decided as either long or short based on their quality.
 3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the Findings based on their perceived impact.
 
