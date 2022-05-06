@@ -1,4 +1,4 @@
-## Acceptance rate statistics and information of main AI conferences
+## Extended Acceptance Rate Statistics and Information of Main AI Conferences
 
 ### Artificial Intelligence
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
@@ -276,9 +276,9 @@
 
 #### Note: 
 1. For **KDD**, **TheWebConf** (**WWW**), and **ISWC**, only research track papers are counted.
-2. For **ICDM**, **TPDL**, and **PRICAI**, accepted paper types are decided as either long or short based on their quality.
-3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the Findings based on their perceived impact.
+2. For **ICDM**, **TPDL**, and **PRICAI**, papers are accepted as either long paper or short paper based on their quality.
+3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the *Findings* based on their perceived impact.
 
 ---
-- Larger coverage with more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
+- Larger coverage of conferences with more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
 - Contributions with update are welcome via pull requests/issues.
