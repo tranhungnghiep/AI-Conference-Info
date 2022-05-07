@@ -1,6 +1,7 @@
-## Extended Acceptance Rate Statistics and Information of Main AI Conferences
+## Extensive Acceptance Rate Statistics and Information of Main AI Conferences
 
 ### Artificial Intelligence
+*(strategy, method, system)*
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | **AAAI**'14 | 28.0% (398/1406) | - | | |
@@ -45,6 +46,7 @@
 | KR'18 | 26.8% (65/243) | - | | |
 
 ### Machine Learning
+*(method, strategy, system)*
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | **ICML**'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - | | |
@@ -160,6 +162,7 @@
 | CoNLL'20 | 23.3% (53/227) | | [Jul 17](https://www.conll.org/2020) | |
 
 ### Knowledge Modeling
+*(strategy, system, method)*
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | **CIKM**'14 | 21.0% (175/838) | 21.9% (57/260) | | |
@@ -204,6 +207,7 @@
 | ESWC'20 | 23.5% (39/166) | - | | |
 
 ### Data Mining
+*(system, strategy, method)*
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | **KDD**'14 | 14.6% (151/1036) | - | | |
