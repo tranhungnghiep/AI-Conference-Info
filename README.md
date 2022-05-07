@@ -1,4 +1,4 @@
-## Extensive Acceptance Rate Statistics and Information of Main AI Conferences
+## Extensive Acceptance Rate and Information of Main AI Conferences
 
 ### Artificial Intelligence
 *(strategy, method, system)*
