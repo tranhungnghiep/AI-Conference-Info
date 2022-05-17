@@ -1,4 +1,4 @@
-## Extensive Acceptance Rate and Information of Main AI Conferences
+## Extensive Acceptance Rates and Information of Main AI Conferences
 
 ### Artificial Intelligence
 *(strategy, method, system)*
@@ -21,7 +21,7 @@
 | IJCAI'19 | 17.9% (850/4752) | - | | |
 | IJCAI'20 (joint PRICAI) | 12.6% (592/4717) | - | | |
 | IJCAI'21 | 13.9% (587/4204) | | [Jan 12 - 18](https://ijcai-21.org/cfp/) | |
-| IJCAI'22 (joint ECAI) | ~15.0% (?/4535) | - | | |
+| IJCAI'22 (joint ECAI) | 15.0% (681/4535) | - | | |
 | **ECAI**'12 | 28.5% (140/492) | - | | |
 | ECAI'14 | 28.1% (158/562) | - | | |
 | ECAI'16 | 27.0% (177/656) | - | | |
