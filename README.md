@@ -88,12 +88,6 @@
 | AISTATS'19 | 32.4% (360/1111) | - | | |
 | AISTATS'20 | - | - | | |
 | AISTATS'21 | 29.8% (455/1527) | - | | |
-| **ECML-PKDD**'14 | 20.9% (115/550) | - | | |
-| ECML-PKDD'15 | 18.4% (89/483) | - | | |
-| ECML-PKDD'16 | 26.7% (123/460) | - | | |
-| ECML-PKDD'17 | 27.7% (101/364) | - | | |
-| ECML-PKDD'18 | 24.5% (131/535) | - | | |
-| ECML-PKDD'19 | 17.7% (130/733) | - | | |
 
 ### Computer Vision
 | <div align=center>Conference</div> | <div align=center>Long Paper</div> | <div align=center>Short Paper</div> | <div align=center>Calls for Papers</div> | <div align=center>Notes</div> |
