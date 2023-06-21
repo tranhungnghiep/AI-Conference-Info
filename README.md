@@ -281,10 +281,10 @@
 | ICASSP'22 | 45.0% (1785/3967) | - | | |
 
 #### Note: 
-1. For **KDD**, **TheWebConf** (**WWW**), and **ISWC**, only research track papers are counted.
-2. For **ICDM**, **TPDL**, and **PRICAI**, papers are accepted as either long paper or short paper based on their quality.
-3. For **ACL** and **EMNLP**, papers are accepted to either the main proceedings or the *Findings* based on their perceived impact.
+1. For *KDD*, *TheWebConf* (*WWW*), and *ISWC*, only research track papers are counted.
+2. For *ICDM*, *TPDL*, and *PRICAI*, papers are accepted as either long paper or short paper based on their quality.
+3. For *ACL* and *EMNLP*, papers are accepted to either the main proceedings or the *Findings* based on their perceived impact.
 
 ---
-- Larger coverage of conferences with more information, inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate).
-- Contributions with update are welcome via pull requests/issues.
+- Inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), but with larger conference coverage and more information.
+- Contribution updates are welcome via pull requests/issues.
