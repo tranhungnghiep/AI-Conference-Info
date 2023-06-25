@@ -20,7 +20,7 @@
 | IJCAI'18 (joint ECAI) | 20.5% (710/3470) | - | | |
 | IJCAI'19 | 17.9% (850/4752) | - | | |
 | IJCAI'20 (joint PRICAI) | 12.6% (592/4717) | - | | |
-| IJCAI'21 | 13.9% (587/4204) | | [Jan 12 - 18](https://ijcai-21.org/cfp/) | |
+| IJCAI'21 | 13.9% (587/4204) | - | [Jan 12 - 18](https://ijcai-21.org/cfp/) | |
 | IJCAI'22 (joint ECAI) | 15.0% (681/4535) | - | | |
 | **ECAI**'12 | 28.5% (140/492) | - | | |
 | ECAI'14 | 28.1% (158/562) | - | | |
@@ -192,7 +192,7 @@
 | ISWC'17 | ~25.3% (55/~217) | - | | |
 | ISWC'18 | 23.8% (39/164) | - | | |
 | ISWC'19 | 21.6% (42/194) | - | | |
-| ISWC'20 | 22.4% (38/170) | | [May 15 - 22](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/) | |
+| ISWC'20 | 22.4% (38/170) | - | [May 15 - 22](https://iswc2020.semanticweb.org/calls/call-for-research-track-papers/) | |
 | **ESWC**'14 | 24.5% (50/204) | - | | |
 | ESWC'15 | 26.2% (43/164) | - | | |
 | ESWC'16 | 23.0% (47/204) | - | | |
