@@ -315,5 +315,5 @@
 3. For *ACL* and *EMNLP*, papers are accepted to either the main proceedings or the *Findings* based on their perceived impact.
 
 ---
-- Extends [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) with larger conference coverage and more information.
+- Extending [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) with larger conference coverage and more information, est. Jan 2020.
 - Updates are welcome via new issues/pull requests.
