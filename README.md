@@ -1,4 +1,4 @@
-## Extensive Acceptance Rates and Information of Main AI Conferences
+## Acceptance Rates and Information of Main AI Conferences
 
 ### Artificial Intelligence
 *(strategy, method, system)*
@@ -311,5 +311,5 @@
 3. For *ACL* and *EMNLP*, papers are accepted to either the main proceedings or the *Findings* based on their perceived impact.
 
 ---
-- Inspired by [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate), but with larger conference coverage and more information.
-- Contribution updates are welcome via pull requests/issues.
+- Extends [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) with larger conference coverage and more information.
+- Contribution for updates is welcome via pull requests/new issues.
