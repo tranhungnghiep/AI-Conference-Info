@@ -316,4 +316,4 @@
 
 ---
 - Extends [Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) with larger conference coverage and more information.
-- Contribution for updates is welcome via pull requests/new issues.
+- Updates are welcome via new issues/pull requests.
