@@ -1,4 +1,4 @@
-## Acceptance Rates and Information of Main AI Conferences
+## Main AI Conferences Acceptance Rates and Information
 
 ### Artificial Intelligence
 *(strategy, method, system)*
