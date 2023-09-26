@@ -97,7 +97,7 @@
 | AISTATS'17 | 31.7% (168/530) | - | | |
 | AISTATS'18 | 33.2% (214/645) | - | | |
 | AISTATS'19 | 32.4% (360/1111) | - | | |
-| AISTATS'20 | ?% (423/?) | - | | |
+| AISTATS'20 | ?% (423/?) | - | | [Ref](http://proceedings.mlr.press/v108/) |
 | AISTATS'21 | 29.8% (455/1527) | - | | |
 | AISTATS'22 | 29.2% (493/1685) | - | | |
 
@@ -297,7 +297,7 @@
 | INTERSPEECH'17 | 52.0% (799/1582) | - | | |
 | INTERSPEECH'18 | 54.3% (749/1320) | - | | |
 | INTERSPEECH'19 | 49.3% (914/1855) | - | | |
-| INTERSPEECH'20 | ~47.0% (?/?) | - | | |
+| INTERSPEECH'20 | 47.7% (1021/2140) | - | | [Ref](http://www.interspeech2020.org/uploadfile/INTERSPEECH_2020_PROCEEDINGS.zip) |
 | INTERSPEECH'21 | 48.4% (963/1990) | - | | |
 | **ICASSP**'14 | 48.0% (1709/3500) | - | | |
 | ICASSP'15 | 52.0% (1207/2322) | - | | |
